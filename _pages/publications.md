@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description:
 nav: true
 nav_order: 2
 ---
@@ -18,20 +18,16 @@ nav_order: 2
 
 {% bibliography --query @*[keywords=journal] %}
 
-
 <h2>Research &amp; Discussion Papers</h2>
 
 {% bibliography --query @*[keywords ^= report] %}
-
 
 <h2>Working Manuscripts</h2>
 
 {% bibliography --query @*[keywords ^= working] %}
 
-
 <h2>Newspaper Articles &amp; Blog Posts</h2>
 
 {% bibliography --query @*[keywords ^= blog] %}
-
 
 </div>
