@@ -27,7 +27,4 @@ latest_posts:
 
 I am a social scientist with a strong interest in the social and political construction of the economy. My research interests lie at the intersection of economic sociology and political economy.
 
-I am currently a postdoctoral researcher at the Max Weber Institute for Sociology (MWI) at Heidelberg University as part of the ERC project  <a href="https://www.mwi.uni-heidelberg.de/de/forschung/alle-forschungsprojekte/socdebt-towards-a-sociology-of-debt-stratification-and-its-moral-foundations">SOCDEBT</a> . Previously, I was a postdoctoral researcher and PhD researcher at the Max Planck Institute for the Study of Societies (MPIfG).
-
-
-
+I am currently a postdoctoral researcher at the Max Weber Institute for Sociology (MWI) at Heidelberg University as part of the ERC project <a href="https://www.mwi.uni-heidelberg.de/de/forschung/alle-forschungsprojekte/socdebt-towards-a-sociology-of-debt-stratification-and-its-moral-foundations">SOCDEBT</a> . Previously, I was a postdoctoral researcher and PhD researcher at the Max Planck Institute for the Study of Societies (MPIfG).

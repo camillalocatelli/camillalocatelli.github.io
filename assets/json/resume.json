@@ -38,77 +38,78 @@
     ]
   },
   "work": [
-  {
-    "name": "Max Weber Institute for Sociology, Heidelberg University",
-    "position": "Postdoctoral Researcher",
-    "url": "https://www.mwi.uni-heidelberg.de/",
-    "startDate": "2026-09-01",
-    "endDate": "",
-    "summary": "Comparative Analysis of Private Debt in Europe",
-    "highlights": []
-  },
-  {
-    "name": "Max Planck Institute for the Study of Societies",
-    "position": "Postdoctoral Researcher",
-    "url": "https://www.mpifg.de/",
-    "startDate": "2025-01-01",
-    "endDate": "",
-    "summary": "Research on European economic governance, EU fiscal policy, and the politics of technocratic expertise.",
-    "highlights": []
-  },
-  {
-    "name": "Max Planck Institute for the Study of Societies",
-    "position": "PhD Researcher",
-    "url": "https://www.mpifg.de/",
-    "startDate": "2020-10-01",
-    "endDate": "2024-12-31",
-    "summary": "Doctoral research on the politics of technocratic fiscal surveillance in the Economic and Monetary Union.",
-    "highlights": []
-  }
-], "education": [
-  {
-    "institution": "Max Planck Institute for the Study of Societies, Cologne",
-    "location": "Cologne, Germany",
-    "url": "https://www.mpifg.de/",
-    "area": "Political Economy",
-    "studyType": "PhD",
-    "startDate": "2020-01-01",
-    "endDate": "2024-12-31",
-    "score": "",
-    "courses": []
-  },
-  {
-    "institution": "University of Amsterdam",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://www.uva.nl/",
-    "area": "Social Sciences",
-    "studyType": "Research Master",
-    "startDate": "2018-01-01",
-    "endDate": "2020-01-01",
-    "score": "",
-    "courses": []
-  },
-  {
-    "institution": "University of Milano-Bicocca",
-    "location": "Milan, Italy",
-    "url": "https://www.unimib.it/",
-    "area": "Sociology",
-    "studyType": "Bachelor",
-    "startDate": "2015-01-01",
-    "endDate": "2018-01-01",
-    "score": "",
-    "courses": []
-  },
-  {
-    "institution": "Goethe University Frankfurt",
-    "location": "Frankfurt, Germany",
-    "url": "https://www.uni-frankfurt.de/",
-    "area": "Sociology",
-    "studyType": "Erasmus Exchange",
-    "startDate": "2016-01-01",
-    "endDate": "2017-01-01",
-    "score": "",
-    "courses": []
-  }
-]
+    {
+      "name": "Max Weber Institute for Sociology, Heidelberg University",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.mwi.uni-heidelberg.de/",
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "summary": "Comparative Analysis of Private Debt in Europe",
+      "highlights": []
+    },
+    {
+      "name": "Max Planck Institute for the Study of Societies",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.mpifg.de/",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Research on European economic governance, EU fiscal policy, and the politics of technocratic expertise.",
+      "highlights": []
+    },
+    {
+      "name": "Max Planck Institute for the Study of Societies",
+      "position": "PhD Researcher",
+      "url": "https://www.mpifg.de/",
+      "startDate": "2020-10-01",
+      "endDate": "2024-12-31",
+      "summary": "Doctoral research on the politics of technocratic fiscal surveillance in the Economic and Monetary Union.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Max Planck Institute for the Study of Societies, Cologne",
+      "location": "Cologne, Germany",
+      "url": "https://www.mpifg.de/",
+      "area": "Political Economy",
+      "studyType": "PhD",
+      "startDate": "2020-01-01",
+      "endDate": "2024-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Amsterdam",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://www.uva.nl/",
+      "area": "Social Sciences",
+      "studyType": "Research Master",
+      "startDate": "2018-01-01",
+      "endDate": "2020-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Milano-Bicocca",
+      "location": "Milan, Italy",
+      "url": "https://www.unimib.it/",
+      "area": "Sociology",
+      "studyType": "Bachelor",
+      "startDate": "2015-01-01",
+      "endDate": "2018-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Goethe University Frankfurt",
+      "location": "Frankfurt, Germany",
+      "url": "https://www.uni-frankfurt.de/",
+      "area": "Sociology",
+      "studyType": "Erasmus Exchange",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": []
+    }
+  ]
 }
